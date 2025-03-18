@@ -136,7 +136,7 @@ npm run dev  # Runs the server with nodemon
 ---
 
 ## Contributors
-- **Rahul Tanwar** *(Developer)*
+- **Tamana** *(Developer)*
 
 ---
 
